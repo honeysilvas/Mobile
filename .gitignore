@@ -6,7 +6,9 @@ DerivedDataCache/
 Intermediate/
 Saved/ 
 Saved/Autosaves/
+Saved/Backup/
 Saved/Config/
+Saved/Logs/
 
 #################
 ## Eclipse
