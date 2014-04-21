@@ -6,8 +6,12 @@ DerivedDataCache/
 Intermediate/
 Saved/ 
 Saved/Autosaves/
+Saved/Autosaves/Game/
+Saved/Autosaves/Temp/
 Saved/Backup/
 Saved/Config/
+Saved/Config/CleanSource/Configs/
+Saved/Config/Windows/
 Saved/Logs/
 
 #################
