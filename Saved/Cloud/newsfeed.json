@@ -2,7 +2,7 @@
 	"news":
 	[
 		{
-			"id": "01234567890123456789012345678901",
+			"id": "fc63fba096cb487c834e777f80787d2e",
 			"title": "Elemental Demo - Free Download",
 			"excerpt": "New in Marketplace! The Elemental demonstration is included free download with the 4.1 update.",
 			"fulltext": "New in Marketplace! The Elemental demonstration is included free download with the 4.1 update.",
@@ -11,40 +11,40 @@
 			"url": "ue4://market/Elemental"
 		},
 		{
-			"id": "01234567890123456789012345678901",
-			"title": "Effects Cave Showcase - Free Download",
-			"excerpt": "The Effects Cave showcase is a great way to play with particle systems, decals and visual effects.",
-			"fulltext": "The Effects Cave showcase is a great way to play with particle systems, decals and visual effects.",
-			"icon": "cave_icon_b.png",
-			"issued": "2014.04.10-12.00.00",
-			"url": "ue4://market/Effects"
-		},
-		{
-			"id": "01234567890123456789012345678901",
-			"title": "Realistic Rendering Showcase - Free Download",
-			"excerpt": "The Realistic Rendering showcase is a lifelike scene that highlights physically-based materials and lighting in UE4.",
-			"fulltext": "The Realistic Rendering showcase is a lifelike scene that highlights physically-based materials and lighting in UE4.",
-			"icon": "realistic_icon.png",
-			"issued": "2014.04.03-12.00.00",
-			"url": "ue4://market/RealisticRendering"
-		},
-		{
-			"id": "01234567890123456789012345678901",
+			"id": "751ef56b788b445bb22f257168a7fe99",
 			"title": "New! Blueprint Tutorials",
 			"excerpt": "Learn the ins and outs of Blueprint visual scripting.",
 			"fulltext": "Learn the ins and outs of Blueprint visual scripting.",
 			"icon": "blueprint_icon_b.png",
-			"issued": "2014.04.21-12.00.00",
-			"url": "https://www.unrealengine.com/blog?category=Blueprints"
+			"issued": "2014.04.21-09.00.00",
+			"url": "http://www.unrealengine.com/blog?category=Blueprints"
 		},
 		{
-			"id": "01234567890123456789012345678901",
+			"id": "75e8097409ca422597c31c750280450c",
 			"title": "New! Unreal Matinee Tutorial",
 			"excerpt": "Get a few tips and tricks on the UE4 cinematic system.",
 			"fulltext": "Get a few tips and tricks on the UE4 cinematic system.",
 			"icon": "matinee_icon.png",
 			"issued": "2014.04.16-18.32.00",
-			"url": "https://wiki.unrealengine.com/Editing_Matinee_Basics:_Creating_Your_First_Matinee_Sequence"
+			"url": "http://wiki.unrealengine.com/Editing_Matinee_Basics:_Creating_Your_First_Matinee_Sequence"
+		},
+		{
+			"id": "516e7605129a4fc288289867d195a6ad",
+			"title": "Effects Cave Showcase - Free Download",
+			"excerpt": "The Effects Cave showcase is a great way to play with particle systems, decals and visual effects.",
+			"fulltext": "The Effects Cave showcase is a great way to play with particle systems, decals and visual effects.",
+			"icon": "cave_icon_b.png",
+			"issued": "2014.04.10-09.00.00",
+			"url": "ue4://market/Effects"
+		},
+		{
+			"id": "560eef25b41e4d6687ac9bba753977cc",
+			"title": "Realistic Rendering Showcase - Free Download",
+			"excerpt": "The Realistic Rendering showcase is a lifelike scene that highlights physically-based materials and lighting in UE4.",
+			"fulltext": "The Realistic Rendering showcase is a lifelike scene that highlights physically-based materials and lighting in UE4.",
+			"icon": "realistic_icon.png",
+			"issued": "2014.04.03-09.00.00",
+			"url": "ue4://market/RealisticRendering"
 		}
 	]
 }
